@@ -1,0 +1,4 @@
+tkinker
+psycopg2
+matploblib.pyplot
+networkx
